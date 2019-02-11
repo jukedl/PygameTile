@@ -1,6 +1,8 @@
 import pygame
 from pygame.sprite import Sprite
 
+# luke wrote this fucking comment
+
 class Alien(Sprite):
     """A class to represent a single alien in the fleet."""
 
